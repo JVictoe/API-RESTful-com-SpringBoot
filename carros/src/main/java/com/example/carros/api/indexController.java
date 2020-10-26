@@ -8,7 +8,7 @@ public class indexController {
 
     @GetMapping()
     public String get () {
-        return "Api dos carros";
+        return "Noticias";
     }
 
 
